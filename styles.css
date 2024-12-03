@@ -1,1 +1,87 @@
 /*  your css code here. If applicable */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  margin: 50px auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  font-size: 2.5rem;
+  text-align: center;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+.testimonial {
+  background-color: #fafafa;
+  border-left: 4px solid #007BFF;
+  padding: 20px;
+  margin-bottom: 20px;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+.testimonial p {
+  margin: 0;
+}
+
+.testimonial span {
+  display: block;
+  text-align: right;
+  font-style: italic;
+  body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  margin: 50px auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  font-size: 2.5rem;
+  text-align: center;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+.testimonial {
+  background-color: #fafafa;
+  border-left: 4px solid #007BFF;
+  padding: 20px;
+  margin-bottom: 20px;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+.testimonial p {
+  margin: 0;
+}
+
+.testimonial span {
+  display: block;
+  text-align: right;
+  font-style: italic;
+  color: #555;
+  margin-top: 10px;
+}
+
+  margin-top: 10px;
+}
